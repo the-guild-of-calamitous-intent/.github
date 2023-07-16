@@ -1,5 +1,7 @@
 # Guild of Calamitous Intent
 
+This is a collection of navigational tools and libraries.
+
 - `gciSensors` [C++]
     - `LIS3MDL`: magnetometer
     - `LSM6DSOX`: accelerometer, gyroscope
