@@ -10,4 +10,7 @@ This is a collection of navigational tools and libraries.
 - `gciNavigation` [python, C++]
     - `Mahoney`
     - `Madgwick`
+    - `WGS84`: Earth parameters and conversion between ECEF and LLH frames
+- `squaternion` [python, C++]: simple quaternion math library
     - `ComplementaryFilter`
+- `vecmat` [C++]: simple vector and matrix library
